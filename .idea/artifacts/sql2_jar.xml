@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="sql2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sql2_jar</output-path>
+    <root id="archive" name="sql2.jar">
+      <element id="module-output" name="sql2" />
+    </root>
+  </artifact>
+</component>
